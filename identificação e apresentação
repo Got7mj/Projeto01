@@ -1,0 +1,35 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+/////
+// Assinatura das funções
+
+void telaSobre(void);
+void telaPrincipal(void);
+void telaEquipe(void);
+void telaMenuCardápio(void);
+void telaCadastrarcCardápio(void);
+void telaPesquisarCardápio(void);
+void telaAlterarCardápio(void);
+void telaExcluirAlimento(void);
+void telaCadastrarPacientes(void);
+
+
+/////
+// Programa principal
+
+int main(void) {
+    telaSobre();
+    telaPrincipal();
+    telaEquipe();
+    telaMenuCardápio();
+    telaCadastrarCardápio();
+    telaPesquisarCardápio();
+    telaAlterarCardáapio();
+    telaExcluirAlimento();
+    return 0;
+}
+
+
