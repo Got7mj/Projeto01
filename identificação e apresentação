@@ -13,7 +13,7 @@ void telaMenuCardápio(void);
 void telaCadastrarcCardápio(void);
 void telaPesquisarCardápio(void);
 void telaAlterarCardápio(void);
-void telaExcluirAlimento(void);
+void telaExcluirCardápio(void);
 void telaCadastrarPacientes(void);
 
 
@@ -28,7 +28,9 @@ int main(void) {
     telaCadastrarCardápio();
     telaPesquisarCardápio();
     telaAlterarCardáapio();
-    telaExcluirAlimento();
+    telaExcluircCardápio();
+    telaCadastrarPacientes();
+    
     return 0;
 }
 
