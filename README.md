@@ -1,6 +1,5 @@
 # Projeto
 Identificação e apresentação do projeto de um sistema de planejamento de dieta
-Projeto de Sistema de Planejamento de Dieta
 
 Projeto avaliativo para a Disciplina DCT1106 - Programação Semestre 2021.2
 
