@@ -111,7 +111,7 @@ void  telaEquipe ( void ) {
     printf ( " /// Este projeto foi desenvolvido por: /// \ n " );
     printf ( " /// /// \ n " );
     printf ( " /// Mariana Araújo de Medeiros /// \ n " );
-    printf ( " /// E-mail: mariana.medeiros.017@ufrn.br /// \ n " );
+    printf ( " /// E-mail: mariana.medeiros.017@ufrn.edu.br /// \ n " );
     printf ( " /// Repositório: https://github.com/Got7mj/mariana /// \ n " );
     printf ( " /// /// \ n " );
     printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
