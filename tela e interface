@@ -173,7 +173,7 @@ void telaCadastrarCardápio(void) {
     printf("///                  = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
     printf("///                                                                               ///\n");
     printf("///                  Numeração (apenas números):                                  ///\n");
-    printf("///                  Data da Criação (dd / mm / aaaa):                            ///\n");
+    printf("///                  Data da Criação (dd/mm/aaaa):                                ///\n");
     printf("///                                                                               ///\n");
     printf("///                                                                               ///\n");
     printf("/////////////////////////////////////////////////////////////////////////////////////\n");
@@ -296,61 +296,61 @@ void telaCadastrarPaciente(void) {
 
 
 
-void telaProcurarPaciente (void) {
-    sistema ("limpar || cls");
-    printf ("\ n");
-    printf ("///////////////////////////////////////////////// ////////////////////////////////// \ n ");
-    printf ("/// /// \ n");
-    printf ("/// = = = = = = = = = = = = = = = = = = = = = = = = /// \ n");
-    printf ("/// = = = = = = = = Pesquisar Paciente = = = = = = = = /// \ n");
-    printf ("/// = = = = = = = = = = = = = = = = = = = = = = = = /// \ n");
-    printf ("/// /// \ n");
-    printf ("/// Informe o CPF (apenas números): /// \ n");
-    printf ("/// /// \ n");
-    printf ("/// /// \ n");
-    printf ("///////////////////////////////////////////////// ////////////////////////////////// \ n ");
-    printf ("\ n");
-    printf ("\ t \ t \ t >>> Tecle <ENTER> para continuar ... \ n");
-    getchar ();
+void telaProcurarPaciente(void) {
+    sistema("limpar||cls");
+    printf("\n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                                                                               ///\n");
+    printf("///               = = = = = = = = = = = = = = = = = = = = = = = =                 ///\n");
+    printf("///             = = = = = = = = Pesquisar Paciente = = = = = = = =                ///\n");
+    printf("///               = = = = = = = = = = = = = = = = = = = = = = = =                 ///\n");
+    printf("///                                                                               ///\n");
+    printf("///                  Informe o CPF (apenas números):                              ///\n");
+    printf("///                                                                               ///\n");
+    printf("///                                                                               ///\n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("\n");
+    printf("\t\t\t>>> Tecle <ENTER> para continuar...\n");
+    getchar();
 }
 
 
 
-void telaAlterarPciente (void) {
-    sistema ("limpar || cls");
-    printf ("\ n");
-    printf ("///////////////////////////////////////////////// ////////////////////////////////// \ n ");
-    printf ("/// /// \ n");
-    printf ("/// = = = = = = = = = = = = = = = = = = = = = = = = /// \ n");
-    printf ("/// = = = = = = = = alterar Paciente = = = = = = = = = /// \ n");
-    printf ("/// = = = = = = = = = = = = = = = = = = = = = = = = /// \ n");
-    printf ("/// /// \ n");
-    printf ("/// Informe o CPF (apenas números): /// \ n");
-    printf ("/// /// \ n");
-    printf ("/// /// \ n");
-    printf ("///////////////////////////////////////////////// ////////////////////////////////// \ n ");
-    printf ("\ n");
-    printf ("\ t \ t \ t >>> Tecle <ENTER> para continuar ... \ n");
-    getchar ();
+void telaAlterarPciente(void) {
+    sistema("limpar||cls");
+    printf("\n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                                                                               ///\n");
+    printf("///                  = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
+    printf("///                = = = = = = = = alterar Paciente = = = = = = = = =             ///\n");
+    printf("///                  = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
+    printf("///                                                                               ///\n");
+    printf("///                   Informe o CPF (apenas números):                             ///\n");
+    printf("///                                                                               ///\n");
+    printf("///                                                                                ///n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("\n");
+    printf("\t\t\t>>> Tecle <ENTER> para continuar...\n");
+    getchar();
 }
 
 
 
-void telaExcluirPaciente (void) {
-    sistema ("limpar || cls");
-    printf ("\ n");
-    printf ("///////////////////////////////////////////////// ////////////////////////////////// \ n ");
-    printf ("/// /// \ n");
-    printf ("/// = = = = = = = = = = = = = = = = = = = = = = = = /// \ n");
-    printf ("/// = = = = = = = = Excluir Paciente = = = = = = = = = /// \ n");
-    printf ("/// = = = = = = = = = = = = = = = = = = = = = = = = /// \ n");
-    printf ("/// /// \ n");
-    printf ("/// Informe o CPF (apenas números): /// \ n");
-    printf ("/// /// \ n");
-    printf ("/// /// \ n");
-    printf ("///////////////////////////////////////////////// ////////////////////////////////// \ n ");
-    printf ("\ n");
-    printf ("\ t \ t \ t >>> Tecle <ENTER> para continuar ... \ n");
-    getchar ();
+void telaExcluirPaciente(void) {
+    sistema("limpar||cls");
+    printf("\n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                                                                               ///\n");
+    printf("///                = = = = = = = = = = = = = = = = = = = = = = = =                ///\n");
+    printf("///              = = = = = = = = Excluir Paciente = = = = = = = = =               ///\n");
+    printf("///               = = = = = = = = = = = = = = = = = = = = = = = =                 ///\n");
+    printf("///                                                                               ///\n");
+    printf("///               Informe o CPF (apenas números):                                 ///\n");
+    printf("///                                                                               ///\n");
+    printf("///                                                                               ///\n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("\n");
+    printf("\t\t\t>>> Tecle <ENTER> para continuar...\n");
+    getchar();
 }
 
