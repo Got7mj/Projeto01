@@ -28,7 +28,7 @@ int main(void) {
     telaMenuCardápio();
     telaCadastrarCardápio();
     telaPesquisarCardápio();
-    telaAlterarCardáapio();
+    telaAlterarCardápio();
     telaExcluircCardápio();
     telaCadastrarPacientes();
      telaExcluirPacientes();
