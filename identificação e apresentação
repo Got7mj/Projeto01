@@ -45,7 +45,7 @@ int main(void) {
 
 void  telaSobre ( void ) {
     printf ( " \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " ///                                                                                  /// \ n " );
     printf ( " ///                Universidade Federal do Rio Grande do Norte                       /// \ n " );
     printf ( " ///                Centro de Ensino Superior do Seridó                               /// \ n " );
@@ -54,7 +54,7 @@ void  telaSobre ( void ) {
     printf ( " ///                Projeto Sistema de Planejamento de Dieta                          /// \ n " );
     printf ( " ///                Desenvolvido por mariana - Nov, 2021                              /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " ///                                                                                  /// \ n " );
     printf ( " ///             = = = = = Sistema de Planejamento de Dieta = = = = = =               /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
@@ -62,7 +62,7 @@ void  telaSobre ( void ) {
     printf ( " ///         avaliativo no Semestre 2021.2. O programa contém os principais módulos   /// \ n " );
     printf ( " ///         e funcionalidades que serão exigidos ao longo da disciplina.             /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " \ n " );
 }
 Projeto avaliativo para a Disciplina DCT1106 - Programação Semestre 2021.2
@@ -71,7 +71,7 @@ Projeto avaliativo para a Disciplina DCT1106 - Programação Semestre 2021.2
 
 void  telaPrincipal ( void ) {
     printf ( " \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " ///                                                                                  /// \ n " );
     printf ( " ///                  Universidade Federal do Rio Grande do Norte                     /// \ n " );
     printf ( " ///                  Centro de Ensino Superior do Seridó                             /// \ n " );
@@ -80,7 +80,7 @@ void  telaPrincipal ( void ) {
     printf ( " ///                  Projeto Sistema de Planejamento de Dieta                        /// \ n " );
     printf ( " ///                  Desenvolvido por mariana - Nov, 2021                            /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " ///                                                                                  /// \ n " );
     printf ( " ///             = = = = = = Sistema de Planejamento de Dieta = = = = = =             /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
@@ -91,7 +91,7 @@ void  telaPrincipal ( void ) {
     printf ( " ///             5. Módulo Sobre                                                      /// \ n " );
     printf ( " ///             0. Sair                                                              /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " \ n " );
 }
 
@@ -99,7 +99,7 @@ void  telaPrincipal ( void ) {
 
 void  telaEquipe ( void ) {
     printf ( " \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " ///                                                                                  /// \ n " );
     printf ( " ///                       Universidade Federal do Rio Grande do Norte                /// \ n " );
     printf ( " ///                       Centro de Ensino Superior do Seridó                        /// \ n " );
@@ -108,7 +108,7 @@ void  telaEquipe ( void ) {
     printf ( " ///                       Projeto Sistema de Planejamento de Dieta                   /// \ n " );
     printf ( " ///                       Desenvolvido por mariana - Nov, 2021                       /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " ///                                                                                  /// \ n " );
     printf ( " ///                 = = = = = = Sistema de Planejamento de Dieta = = = = = =         /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
@@ -118,7 +118,7 @@ void  telaEquipe ( void ) {
     printf ( " ///                 E-mail: mariana.medeiros.017@ufrn.edu.br                         /// \ n " );
     printf ( " ///                 Repositório: https://github.com/Got7mj/mariana                   /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///////////////////////////////////////////////// ////////////////////////////////////// \ n " );
+    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " \ n " );
 }
 
