@@ -51,7 +51,7 @@ int main(void) {
 void telaSobre(void) {
     sistema("limpar || cls");
     printf("\n");
-    printf("////////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("/////////////////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                                   ///\n");
     printf("///                    Universidade Federal do Rio Grande do Norte                    ///\n");
     printf("///                    Centro de Ensino Superior do Seridó                            ///\n");
@@ -184,7 +184,7 @@ void telaCadastrarCardápio(void) {
 
 
 
-void telaProcurarCardápio(void) {
+void telaPesquisarCardápio(void) {
     sistema("limpar||cls");
     printf("\n");
     printf("/////////////////////////////////////////////////////////////////////////////////////\n");
@@ -284,7 +284,7 @@ void telaCadastrarPaciente(void) {
     printf("///                  Peso:                                                        ///\n");
     printf("///                  Altura:                                                      ///\n");
     printf("///                  E-mail:                                                      ///\n");
-    printf("///                  Data de Nascimento (dd / mm / aaaa):                         ///\n");
+    printf("///                  Data de Nascimento (dd/mm aaaa):                         ///\n");
     printf("///                  Celular (apenas números):                                    ///\n");
     printf("///                                                                               ///\n");
     printf("///                                                                               ///\n");
