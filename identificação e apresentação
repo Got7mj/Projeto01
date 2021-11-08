@@ -10,15 +10,15 @@ void telaSobre(void);
 void telaPrincipal(void);
 void telaEquipe(void);
 void telaMenuCardápio(void);
-void telaCadastrarCardápio (void);
-void telaPesquisarCardápio (void);
-void telaAlterarCardápio (void);
-void telaExcluirCardápio (void);
-void telaMenuPacientes (void);
-void telaCadastrarPacientes (void);
-void telaPesquisarPacientes (void);
-void telaAlterarPacientes (void);
-void telaExcluirPacientes (void);
+void telaCadastrarCardápio(void);
+void telaPesquisarCardápio(void);
+void telaAlterarCardápio(void);
+void telaExcluirCardápio(void);
+void telaMenuPacientes(void);
+void telaCadastrarPacientes(void);
+void telaPesquisarPacientes(void);
+void telaAlterarPacientes(void);
+void telaExcluirPacientes(void);
 
 /////
 // Programa principal
@@ -43,40 +43,40 @@ int main(void) {
 // ///
 // Funções
 
-void  telaSobre ( void ) {
-    printf ( " \ n " );
-    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
-    printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///                Universidade Federal do Rio Grande do Norte                       /// \ n " );
-    printf ( " ///                Centro de Ensino Superior do Seridó                               /// \ n " );
-    printf ( " ///                Departamento de Computação e Tecnologia                           /// \ n " );
-    printf ( " ///                Disciplina DCT1106 - Programação                                  /// \ n " );
-    printf ( " ///                Projeto Sistema de Planejamento de Dieta                          /// \ n " );
-    printf ( " ///                Desenvolvido por mariana - Nov, 2021                              /// \ n " );
-    printf ( " ///                                                                                  /// \ n " );
-    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
-    printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///             = = = = = Sistema de Planejamento de Dieta = = = = = =               /// \ n " );
-    printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///         Programa  utilizado na disciplina DCT1106 - Programação, para fins       /// \ n " );
-    printf ( " ///         avaliativo no Semestre 2021.2. O programa contém os principais módulos   /// \ n " );
-    printf ( " ///         e funcionalidades que serão exigidos ao longo da disciplina.             /// \ n " );
-    printf ( " ///                                                                                  /// \ n " );
-    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
-    printf ( " \ n " );
+void  telaSobre(void) {
+    printf("\n");
+    printf("////////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                                                                                  ///\n");
+    printf("///                Universidade Federal do Rio Grande do Norte                       ///\n");
+    printf("///                Centro de Ensino Superior do Seridó                               ///\n");
+    printf("///                Departamento de Computação e Tecnologia                           ///\n");
+    printf("///                Disciplina DCT1106 - Programação                                  ///\n");
+    printf("///                Projeto Sistema de Planejamento de Dieta                          ///\n");
+    printf("///                Desenvolvido por mariana - Nov, 2021                              ///\n");
+    printf("///                                                                                  ///\n");
+    printf("////////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("///                                                                                  ///\n");
+    printf("///             = = = = = Sistema de Planejamento de Dieta = = = = = =               ///\n");
+    printf("///                                                                                  ///\n");
+    printf("///         Programa  utilizado  na  disciplina  DCT1106 - Programação, para fins    ///\n");
+    printf("///         avaliativo no Semestre 2021.2. O programa contém os principais módulos   ///\n");
+    printf("///         e funcionalidades que serão exigidos ao longo da disciplina.             ///\n");
+    printf("///                                                                                  ///\n");
+    printf("////////////////////////////////////////////////////////////////////////////////////////\n");
+    printf("\n");
 }
 Projeto avaliativo para a Disciplina DCT1106 - Programação Semestre 2021.2
 
 
 
-void  telaPrincipal ( void ) {
-    printf ( " \ n " );
-    printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
-    printf ( " ///                                                                                  /// \ n " );
-    printf ( " ///                  Universidade Federal do Rio Grande do Norte                     /// \ n " );
-    printf ( " ///                  Centro de Ensino Superior do Seridó                             /// \ n " );
-    printf ( " ///                  Departamento de Computação e Tecnologia                         /// \ n " );
-    printf ( " ///                  Disciplina DCT1106 - Programação                                /// \ n " );
+void  telaPrincipal(void) {
+    printf("\n");
+    printf("//////////////////////////////////////////////////////////////////////////////////////// \ n " );
+    printf("///                                                                                  /// \ n " );
+    printf("///                  Universidade Federal do Rio Grande do Norte                     /// \ n " );
+    printf("///                  Centro de Ensino Superior do Seridó                             /// \ n " );
+    printf("///                  Departamento de Computação e Tecnologia                         /// \ n " );
+    printf( " ///                  Disciplina DCT1106 - Programação                                /// \ n " );
     printf ( " ///                  Projeto Sistema de Planejamento de Dieta                        /// \ n " );
     printf ( " ///                  Desenvolvido por mariana - Nov, 2021                            /// \ n " );
     printf ( " ///                                                                                  /// \ n " );
