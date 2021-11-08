@@ -284,7 +284,7 @@ void telaCadastrarPaciente(void) {
     printf("///                  Peso:                                                        ///\n");
     printf("///                  Altura:                                                      ///\n");
     printf("///                  E-mail:                                                      ///\n");
-    printf("///                  Data de Nascimento (dd/mm aaaa):                         ///\n");
+    printf("///                  Data de Nascimento (dd/mm/aaaa):                         ///\n");
     printf("///                  Celular (apenas números):                                    ///\n");
     printf("///                                                                               ///\n");
     printf("///                                                                               ///\n");
