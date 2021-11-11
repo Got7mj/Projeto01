@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-
 /////
 // Assinatura das funções
 
@@ -36,8 +34,7 @@ int main(void) {
     telaPesquisarPacientes();
     telaAlterarPacientes();
     telaExcluirPacientes();
-    
-    return 0;
+     return 0;
 }
 
 // ///
@@ -65,7 +62,6 @@ void  telaSobre(void) {
     printf("////////////////////////////////////////////////////////////////////////////////////////\n");
     printf("\n");
 }
-Projeto avaliativo para a Disciplina DCT1106 - Programação Semestre 2021.2
 
 
 
@@ -121,10 +117,3 @@ void  telaEquipe ( void ) {
     printf ( " //////////////////////////////////////////////////////////////////////////////////////// \ n " );
     printf ( " \ n " );
 }
-
-
-
-
-
-
-
