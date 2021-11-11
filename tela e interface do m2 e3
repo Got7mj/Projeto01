@@ -12,6 +12,10 @@ void telaCadastrarPacientes(void);
 void telaPesquisarPacientes(void);
 void telaAlterarPacientes(void);
 void telaExcluirPacientes(void);
+void telaMenuExames(void);
+void telaCadastrarEames(void);
+void telaPesquisarExames(void);
+void telaExcluirExames(void);
 
 /////
 // Programa principal
@@ -20,16 +24,15 @@ int main(void) {
     telaSobre();
     telaPrincipal();
     telaEquipe();
-    telaMenuCardápio();
-    telaCadastrarCardápio();
-    telaPesquisarCardápio();
-    telaAlterarCardápio();
-    telaExcluirCardápio();
     telaMenuPacientes();
     telaCadastrarPacientes();
     telaPesquisarPacientes();
     telaAlterarPacientes();
-    telaExcluirPacientes );
+    telaExcluirPacientes();
+    telaMenuExames();
+    telaCadastrarExames();
+    talaPesquisarExames();
+    telaExcluirExames();
     return 0;
 }
 
@@ -235,3 +238,9 @@ void telaExcluirPaciente(void) {
     printf("\t\t\t>>> Tecle <ENTER> para continuar...\n");
     getchar();
 }
+
+
+
+void telaMenuExames(void) {
+    sistema("limpar||cls") {
+    
